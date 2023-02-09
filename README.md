@@ -284,6 +284,5 @@ Discussion
 
 For any concerns with the protocol, open an issue or visit us on [Discord](https://compound.finance/discord) to discuss.
 
-For security concerns, please email [security@compound.finance](mailto:security@compound.finance).
 
 _© Copyright 2020, Compound Labs_
